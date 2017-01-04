@@ -210,22 +210,6 @@
  *   );
  * @endcode
  */
-$databases = array (
-  'default' => 
-  array (
-    'default' => 
-    array (
-      'database' => 'whappend_drpl1',
-      'username' => 'whappend_drpl1',
-      'password' => 'stCw8fLK28CmVzLz',
-      'host' => 'localhost',
-      'port' => '',
-      'driver' => 'mysql',
-      'prefix' => '',
-    ),
-  ),
-);
-
 /**
  * Access control for update.php script.
  *
